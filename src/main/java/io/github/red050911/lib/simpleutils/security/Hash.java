@@ -28,6 +28,7 @@ public class Hash implements Serializable {
     private final byte[] hashData;
     /**
      * The data of the salt (not containing hash)
+     * @since 1.0
      */
     private final byte[] saltData;
     /**
