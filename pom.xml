@@ -10,13 +10,28 @@
 
     <name>SimpleUtils</name>
     <description>A simple Java library for basic utilities.</description>
+    <url>https://github.com/Red050911/SimpleUtils</url>
 
     <licenses>
         <license>
-            <name>The MIT License</name>
-            <url>https://mit-license.org/</url>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
+
+    <developers>
+        <developer>
+            <name>Red050911</name>
+            <email>red050911@gmail.com</email>
+            <url>https://github.com/Red050911</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/Red050911/SimpleUtils.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Red050911/SimpleUtils.git</developerConnection>
+        <url>https://github.com/Red050911/SimpleUtils</url>
+    </scm>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
